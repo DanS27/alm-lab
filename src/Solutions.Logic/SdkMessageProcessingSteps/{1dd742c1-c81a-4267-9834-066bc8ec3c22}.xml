@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin: Create of almlab_warehousetransaction" SdkMessageProcessingStepId="{1dd742c1-c81a-4267-9834-066bc8ec3c22}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SdkMessageId>9ebdbb1b-ea3e-db11-86a7-000a3a5473e8</SdkMessageId>
+  <PluginTypeName>Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=08e1bb6090fd6fb5</PluginTypeName>
+  <PrimaryEntity>almlab_warehousetransaction</PrimaryEntity>
+  <PluginTypeId>0cb2a5e2-8260-42bf-8a02-321734ae6ccb</PluginTypeId>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <FilteringAttributes>
+  </FilteringAttributes>
+  <InvocationSource>0</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>10</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>
