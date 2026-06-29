@@ -4,5 +4,8 @@
   "randomIdentifier": 3983,
   "solutionName": "WarehouseManagement",
   "publisherName": "ALMLab",
-  "publisherPrefix": "almlab"
+  "publisherPrefix": "almlab",
+  "repo": "DanS27/alm-lab",
+  "mainRulesetId": 18266099,
+  "mainRulesetName": "alm-lab-main-protection"
 }
